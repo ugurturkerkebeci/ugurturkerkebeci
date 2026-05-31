@@ -59,7 +59,7 @@ As an independent developer, I focus on building scalable, clean, and maintainab
 ## 🔥 Aktivite
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ugurturkerkebeci&theme=radical"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ugurturkerkebeci&theme=radical](https://github-readme-streak-stats.herokuapp.com?user=ugurturkerkebeci&theme=shadow-purple&short_numbers=true&mode=weekly)"/>
 </p>
 
 ---
