@@ -79,7 +79,7 @@ As an independent developer, I focus on building scalable, clean, and maintainab
   <a href="https://github.com/ugurturkerkebeci">
     <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
   </a>
-  <a href="mailto:epostaadresiniz@example.com">
+  <a href="turkerkebeci@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
   </a>
 </p>
