@@ -130,15 +130,17 @@ Bağımsız bir geliştirici olarak ölçeklenebilir, temiz ve sürdürülebilir
 
 ## 🌐 İletişim
 
+#
+
 <p align="center">
   <a href="https://github.com/ugurturkerkebeci">
-    <img src="https://img.shields.io/badge/GitHub-Profil-black?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
   </a>
+
   <a href="mailto:turkerkebeci@gmail.com">
-    <img src="https://img.shields.io/badge/E-posta-İletişim-red?style=for-the-badge&logo=gmail">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
   </a>
 </p>
-
 ---
 
 <div align="center">
