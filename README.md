@@ -1,35 +1,93 @@
-# Uğur Türker Kebeci
-### Independent Software Developer | 8 Years of Coding Experience
+<div align="center">
+
+# 👋 Merhaba, Ben Uğur Türker Kebeci
+
+### 🚀 Independent Software Developer | 8+ Years Coding Experience
 
 ---
 
-## 🇬🇧 About Me
-Hi, I’m Uğur Türker Kebeci. I have been navigating the world of software development for 8 years, constantly evolving my craft and exploring new technologies. As an independent developer, I am driven by the challenge of turning complex requirements into clean, efficient, and functional software solutions.
+<img src="https://img.shields.io/badge/Status-Available%20for%20Projects-brightgreen?style=for-the-badge">
+<img src="https://img.shields.io/badge/Experience-8%2B%20Years-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/Focus-Clean%20Architecture-purple?style=for-the-badge">
 
-My journey has been defined by a deep curiosity for how things work under the hood. Whether it's crafting robust back-end systems or building intuitive, responsive web interfaces, I strive for excellence in every line of code I write. I am committed to continuous learning, open-source contribution, and developing software that makes a real impact.
-
-### 🛠 Technical Expertise
-* **Programming Languages:** Python, PHP
-* **Web Development:** HTML5, CSS3, JavaScript (ES6+)
-* **Core Strengths:** System Architecture, Independent Problem Solving, Full-Stack Development, Debugging & Optimization
+</div>
 
 ---
 
-## 🇹🇷 Hakkımda
-Merhaba, ben Uğur Türker Kebeci. 8 yıldır yazılım dünyasının içinde, kodun ve sistem mimarilerinin karmaşık yapısını keşfederek ilerliyorum. Bağımsız bir geliştirici olarak temel motivasyonum; karmaşık sorunları analiz edip, bunları temiz, sürdürülebilir ve verimli kod blokları ile çözüme kavuşturmaktır.
+## 🧠 Hakkımda / About Me
 
-Yazılım geliştirme sürecini sadece bir iş değil, bir keşif süreci olarak görüyorum. Gerek arka plan sistemlerinin sağlam temeller üzerine kurulması, gerekse kullanıcı ile doğrudan etkileşime geçen arayüzlerin modern web teknolojileri ile güçlendirilmesi konusunda geniş bir teknik yelpazeye sahibim. Açık kaynak projelerine değer veriyor ve geliştirdiğim her projede estetik ile işlevselliği birleştirmeyi hedefliyorum.
+### 🇹🇷 Türkçe
+8 yıldır yazılım geliştiriyorum. Yazılımı sadece kod yazmak değil, **sistem tasarımı ve problem çözme sanatı** olarak görüyorum.  
+Bağımsız bir geliştirici olarak ölçeklenebilir, temiz ve sürdürülebilir sistemler kurmaya odaklanıyorum.
 
-### 🛠 Teknik Yetkinliklerim
-* **Programlama Dilleri:** Python, PHP
-* **Web Geliştirme:** HTML5, CSS3, JavaScript (ES6+)
-* **Temel Uzmanlık Alanları:** Sistem Mimarisi, Bağımsız Yazılım Geliştirme, Full-Stack Geliştirme, Hata Ayıklama (Debugging) ve Optimizasyon
+### 🇬🇧 English
+I have been developing software for 8+ years. I see software not just as coding, but as **system design and problem solving art**.  
+As an independent developer, I focus on building scalable, clean, and maintainable systems.
+
+---
+
+## 🛠 Teknik Yetenekler / Tech Stack
+
+| Alan | Teknolojiler |
+|------|-------------|
+| 💻 Programlama | Python, PHP |
+| 🌐 Web | JavaScript (ES6+), HTML5, CSS3 |
+| ⚙️ Sistem | Architecture, Optimization, Debugging |
+| 🤖 AI / Tools | LLM integrations, automation scripts |
 
 ---
 
-### 🌐 Connect with Me
-* **GitHub:** [github.com/ugurturkerkebeci](https://github.com/ugurturkerkebeci)
-* **Email:** [E-posta adresinizi ekleyin]
+## 🚀 Odak Alanlarım / Focus Areas
+
+- 🧩 Sistem Mimarisi & Backend Tasarım
+- ⚡ Performans Optimizasyonu
+- 🧠 AI / LLM tabanlı uygulamalar
+- 🔧 Otomasyon sistemleri
+- 🌐 Web tabanlı platformlar
 
 ---
-*Open to collaboration and new challenges in the software landscape.*
+
+## 📊 GitHub İstatistiklerim
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ugurturkerkebeci&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ugurturkerkebeci&layout=compact&theme=radical" height="180"/>
+</p>
+
+---
+
+## 🔥 Aktivite
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ugurturkerkebeci&theme=radical"/>
+</p>
+
+---
+
+## 🧩 Projelerim / Projects
+
+- 🤖 AI tabanlı yerel LLM sistemleri (GGUF / Ollama / custom runtime)
+- ⚙️ Performans analiz ve sistem araçları
+- 🧪 Deneysel yazılım mimarileri
+- 🌐 Web tabanlı araçlar ve dashboard sistemleri
+
+---
+
+## 🌐 İletişim / Contact
+
+<p align="center">
+  <a href="https://github.com/ugurturkerkebeci">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
+  </a>
+  <a href="mailto:epostaadresiniz@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+> 💡 "Kod, düşüncenin en saf halidir."
+
+</div>
