@@ -1,42 +1,35 @@
-# Merhaba! Ben Uğur Türker Kebeci 👋
-
-8 yıldır yazılım dünyasının içindeyim. Bağımsız bir geliştirici olarak, karmaşık problemleri çözmekten ve sıfırdan işlevsel projeler üretmekten keyif alıyorum.
-
-## 🛠 Teknik Yetkinliklerim
-
-Aşağıdaki teknolojilerle projeler geliştiriyor, sistem mimarileri üzerinde çalışıyorum:
-
-*   **Programlama:** Python, PHP
-*   **Web Teknolojileri:** HTML5, CSS3, JavaScript
-*   **Diğer:** Bağımsız Yazılım Geliştirme, Sistem Analizi
-
-## 🚀 Hakkımda
-
-*   **Deneyim:** 8 yıllık yazılım geliştirme süreci.
-*   **Odak:** Kullanıcı deneyimine önem veren, temiz ve sürdürülebilir kod yapıları.
-*   **Vizyon:** Açık kaynaklı projelerle topluluğa katkı sağlamak ve yazılımda sınırları zorlamak.
+# Uğur Türker Kebeci
+### Independent Software Developer | 8 Years of Coding Experience
 
 ---
 
-# Hello! I'm Uğur Türker Kebeci 👋
+## 🇬🇧 About Me
+Hi, I’m Uğur Türker Kebeci. I have been navigating the world of software development for 8 years, constantly evolving my craft and exploring new technologies. As an independent developer, I am driven by the challenge of turning complex requirements into clean, efficient, and functional software solutions.
 
-I have been involved in the world of software development for 8 years. As an independent developer, I enjoy solving complex problems and building functional projects from scratch.
+My journey has been defined by a deep curiosity for how things work under the hood. Whether it's crafting robust back-end systems or building intuitive, responsive web interfaces, I strive for excellence in every line of code I write. I am committed to continuous learning, open-source contribution, and developing software that makes a real impact.
 
-## 🛠 Tech Stack
-
-I develop projects and work on system architectures using the following technologies:
-
-*   **Programming:** Python, PHP
-*   **Web Technologies:** HTML5, CSS3, JavaScript
-*   **Other:** Independent Software Development, System Analysis
-
-## 🚀 About Me
-
-*   **Experience:** 8 years of software development.
-*   **Focus:** Writing clean, maintainable code with a strong emphasis on user experience.
-*   **Vision:** Contributing to the open-source community and pushing the boundaries of software.
+### 🛠 Technical Expertise
+*   **Programming Languages:** Python, PHP
+*   **Web Development:** HTML5, CSS3, JavaScript (ES6+)
+*   **Core Strengths:** System Architecture, Independent Problem Solving, Full-Stack Development, Debugging & Optimization
 
 ---
 
-📫 **İletişim / Contact:** [E-posta adresin]
-🌐 **GitHub:** [github.com/ugurturkerkebeci](https://github.com/ugurturkerkebeci)
+## 🇹🇷 Hakkımda
+Merhaba, ben Uğur Türker Kebeci. 8 yıldır yazılım dünyasının içinde, kodun ve sistem mimarilerinin karmaşık yapısını keşfederek ilerliyorum. Bağımsız bir geliştirici olarak temel motivasyonum; karmaşık sorunları analiz edip, bunları temiz, sürdürülebilir ve verimli kod blokları ile çözüme kavuşturmaktır.
+
+Yazılım geliştirme sürecini sadece bir iş değil, bir keşif süreci olarak görüyorum. Gerek arka plan sistemlerinin sağlam temeller üzerine kurulması, gerekse kullanıcı ile doğrudan etkileşime geçen arayüzlerin modern web teknolojileri ile güçlendirilmesi konusunda geniş bir teknik yelpazeye sahibim. Açık kaynak projelerine değer veriyor ve geliştirdiğim her projede estetik ile işlevselliği birleştirmeyi hedefliyorum.
+
+### 🛠 Teknik Yetkinliklerim
+*   **Programlama Dilleri:** Python, PHP
+*   **Web Geliştirme:** HTML5, CSS3, JavaScript (ES6+)
+*   **Temel Uzmanlık Alanları:** Sistem Mimarisi, Bağımsız Yazılım Geliştirme, Full-Stack Geliştirme, Hata Ayıklama (Debugging) ve Optimizasyon
+
+---
+
+### 🌐 Connect with Me
+*   **GitHub:** [github.com/ugurturkerkebeci](https://github.com/ugurturkerkebeci)
+*   **Email:** [E-posta adresini buraya ekle]
+
+---
+*Open to collaboration and new challenges in the software landscape.*
