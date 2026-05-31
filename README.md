@@ -9,9 +9,9 @@ Hi, I’m Uğur Türker Kebeci. I have been navigating the world of software dev
 My journey has been defined by a deep curiosity for how things work under the hood. Whether it's crafting robust back-end systems or building intuitive, responsive web interfaces, I strive for excellence in every line of code I write. I am committed to continuous learning, open-source contribution, and developing software that makes a real impact.
 
 ### 🛠 Technical Expertise
-*   **Programming Languages:** Python, PHP
-*   **Web Development:** HTML5, CSS3, JavaScript (ES6+)
-*   **Core Strengths:** System Architecture, Independent Problem Solving, Full-Stack Development, Debugging & Optimization
+* **Programming Languages:** Python, PHP
+* **Web Development:** HTML5, CSS3, JavaScript (ES6+)
+* **Core Strengths:** System Architecture, Independent Problem Solving, Full-Stack Development, Debugging & Optimization
 
 ---
 
@@ -21,15 +21,15 @@ Merhaba, ben Uğur Türker Kebeci. 8 yıldır yazılım dünyasının içinde, k
 Yazılım geliştirme sürecini sadece bir iş değil, bir keşif süreci olarak görüyorum. Gerek arka plan sistemlerinin sağlam temeller üzerine kurulması, gerekse kullanıcı ile doğrudan etkileşime geçen arayüzlerin modern web teknolojileri ile güçlendirilmesi konusunda geniş bir teknik yelpazeye sahibim. Açık kaynak projelerine değer veriyor ve geliştirdiğim her projede estetik ile işlevselliği birleştirmeyi hedefliyorum.
 
 ### 🛠 Teknik Yetkinliklerim
-*   **Programlama Dilleri:** Python, PHP
-*   **Web Geliştirme:** HTML5, CSS3, JavaScript (ES6+)
-*   **Temel Uzmanlık Alanları:** Sistem Mimarisi, Bağımsız Yazılım Geliştirme, Full-Stack Geliştirme, Hata Ayıklama (Debugging) ve Optimizasyon
+* **Programlama Dilleri:** Python, PHP
+* **Web Geliştirme:** HTML5, CSS3, JavaScript (ES6+)
+* **Temel Uzmanlık Alanları:** Sistem Mimarisi, Bağımsız Yazılım Geliştirme, Full-Stack Geliştirme, Hata Ayıklama (Debugging) ve Optimizasyon
 
 ---
 
 ### 🌐 Connect with Me
-*   **GitHub:** [github.com/ugurturkerkebeci](https://github.com/ugurturkerkebeci)
-*   **Email:** [E-posta adresini buraya ekle]
+* **GitHub:** [github.com/ugurturkerkebeci](https://github.com/ugurturkerkebeci)
+* **Email:** [E-posta adresinizi ekleyin]
 
 ---
 *Open to collaboration and new challenges in the software landscape.*
