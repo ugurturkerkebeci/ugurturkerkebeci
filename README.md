@@ -1,26 +1,42 @@
-# TamagLM
+# Merhaba! Ben Uğur Türker Kebeci 👋
 
-[English Description](#english) | [Türkçe Açıklama](#türkçe)
+8 yıldır yazılım dünyasının içindeyim. Bağımsız bir geliştirici olarak, karmaşık problemleri çözmekten ve sıfırdan işlevsel projeler üretmekten keyif alıyorum.
+
+## 🛠 Teknik Yetkinliklerim
+
+Aşağıdaki teknolojilerle projeler geliştiriyor, sistem mimarileri üzerinde çalışıyorum:
+
+*   **Programlama:** Python, PHP
+*   **Web Teknolojileri:** HTML5, CSS3, JavaScript
+*   **Diğer:** Bağımsız Yazılım Geliştirme, Sistem Analizi
+
+## 🚀 Hakkımda
+
+*   **Deneyim:** 8 yıllık yazılım geliştirme süreci.
+*   **Odak:** Kullanıcı deneyimine önem veren, temiz ve sürdürülebilir kod yapıları.
+*   **Vizyon:** Açık kaynaklı projelerle topluluğa katkı sağlamak ve yazılımda sınırları zorlamak.
 
 ---
 
-<a name="english"></a>
-## 🇬🇧 About
-TamagLM is a privacy-focused, offline GGUF model runner designed for seamless AI integration. Built with a focus on performance and local control, it empowers developers and enthusiasts to run powerful language models directly on their hardware.
+# Hello! I'm Uğur Türker Kebeci 👋
 
-## 🇹🇷 Hakkında
-TamagLM, gizlilik odaklı, çevrimdışı çalışabilen ve sorunsuz bir yapay zeka deneyimi sunmak için tasarlanmış bir GGUF model çalıştırıcısıdır. Performans ve yerel kontrol odaklı geliştirilmiş olup, geliştiricilerin ve meraklıların güçlü dil modellerini kendi donanımları üzerinde çalıştırmalarını sağlar.
+I have been involved in the world of software development for 8 years. As an independent developer, I enjoy solving complex problems and building functional projects from scratch.
+
+## 🛠 Tech Stack
+
+I develop projects and work on system architectures using the following technologies:
+
+*   **Programming:** Python, PHP
+*   **Web Technologies:** HTML5, CSS3, JavaScript
+*   **Other:** Independent Software Development, System Analysis
+
+## 🚀 About Me
+
+*   **Experience:** 8 years of software development.
+*   **Focus:** Writing clean, maintainable code with a strong emphasis on user experience.
+*   **Vision:** Contributing to the open-source community and pushing the boundaries of software.
 
 ---
 
-## 🛠 Tech Stack / Kullanılan Teknolojiler
-* **Language:** Python
-* **Web:** HTML, JS, CSS, PHP
-* **Core:** GGUF Model Integration, Local LLM Inference
-
-## 🚀 About Me / Hakkımdaki Bilgiler
-Hi, I'm Uğur Türker Kebeci. I've been coding for 8 years and building independent software solutions. 
-Merhaba, ben Uğur Türker Kebeci. 8 yıldır yazılım geliştiriyorum ve bağımsız projeler üretiyorum.
-
-📧 **Contact:** [E-posta adresin]
+📫 **İletişim / Contact:** [E-posta adresin]
 🌐 **GitHub:** [github.com/ugurturkerkebeci](https://github.com/ugurturkerkebeci)
