@@ -40,16 +40,7 @@ As an independent developer, I focus on building scalable, clean, and maintainab
 - 🔧 Automation Systems
 - 🌐 Web Platforms & Dashboards
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ugurturkerkebeci&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ugurturkerkebeci&layout=compact&theme=radical" height="180"/>
-</p>
-
----
 
 ## 🔥 Activity
 
